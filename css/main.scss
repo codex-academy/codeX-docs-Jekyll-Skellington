@@ -158,6 +158,12 @@ img {
   height: auto;
 }
 
+.emoji img {
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
 /* layout */
 
 @media (min-width: 60em) {
