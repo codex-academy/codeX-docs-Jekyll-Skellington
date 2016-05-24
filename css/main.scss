@@ -213,7 +213,7 @@ img {
   margin: 0 0 1em 1em;
 }
 
-main a:not([href*="{{ site.url }}"]):after {
+main a:not([href*="projectcodex.co"]):after {
   content: "(external link \21D7)";
   display: inline-block;
   margin-left: 0.25em;
