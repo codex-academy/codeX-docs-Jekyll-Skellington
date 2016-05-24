@@ -11,5 +11,8 @@ title: Static Assets repo
 # Build settings
 markdown: kramdown
 
+gems:
+  - jemoji
+
 sass:
     style: :compressed
