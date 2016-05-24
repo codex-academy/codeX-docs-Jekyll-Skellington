@@ -7,7 +7,7 @@
 
 # Site settings
 title: Static Assets repo # change this!
-url: *.projectcodex.co # change this!
+url: changethis.projectcodex.co # change this!
 
 # Build settings
 markdown: kramdown
