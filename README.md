@@ -1,3 +1,5 @@
+**Note:** this has moved to [generator-codex-skellington](https://github.com/codex-academy/generator-codex-skellington).
+
 # codeX docs Jekyll Skellington :skull:
 
 A barebones skeleton for applying to codeX documentation (such as the narrative, code katas, and concept cards) to publish it as a Jekyll and GitHub Pages-powered web site.
