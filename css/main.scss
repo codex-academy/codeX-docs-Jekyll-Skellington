@@ -226,3 +226,18 @@ main [href*="projectcodex.co"]:after {
   margin-left: 0.25em;
   color: #222;
 }
+
+/* form styles for http://html.projectcodex.co/ */
+
+legend,
+label {
+  margin-bottom: 1em;
+}
+
+label {
+  display: block;
+}
+
+button {
+  margin-top: 1em;
+}
